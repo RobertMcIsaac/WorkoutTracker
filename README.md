@@ -1,7 +1,7 @@
 
-# WeatherOrNot
+# Activitips (previously WeatherOrNot)
 
-A Workout Generator and Tracker web app.
+Aweb app designed to generate exercises and track workouts
 
 ## Table of Contents
 
