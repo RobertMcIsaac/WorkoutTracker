@@ -1,7 +1,7 @@
 
 # WeatherOrNot
 
-A web app designed to generate exercises and track workouts
+A full-stack web application that generates exercise recommendations based on user preferences, tracks users’ workouts, and monitors health metrics.
 
 ## Table of Contents
 
